@@ -1,6 +1,6 @@
 # Poke-CLI
 
-[![Tests](https://img.shields.io/badge/tests-passing-brightgreen)](https://github.com/Ryanodo23/Poke-CLI-Midterm/tree/main/tests)
+[![Tests](https://github.com/Ryanodo23/Poke-CLI-Midterm/actions/workflows/pytest.yml/badge.svg?branch=main)](https://github.com/Ryanodo23/Poke-CLI-Midterm/actions/workflows/pytest.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simple command-line interface (CLI) for fetching and displaying information about Pokémon from the [PokeAPI](https://pokeapi.co/).
